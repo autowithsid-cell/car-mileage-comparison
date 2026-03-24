@@ -1,8 +1,20 @@
 # Car Mileage Comparison Tool
 
-Compare mileage of cars for better fuel efficiency decisions.
+Helps users compare fuel efficiency of different cars in India.
 
-## Focus
-Indian buyers prioritizing mileage.
+## Why This Matters
+Mileage directly impacts ownership cost for Indian buyers.
 
-Status: Active
+## Features
+- Compare mileage across cars
+- Identify best fuel-efficient options
+
+## Use Case
+Shortlist cars with highest mileage in a given segment.
+
+## Tech
+- JSON dataset
+- Python comparison logic
+
+## Status
+Under active development
